@@ -85,6 +85,7 @@ ul {
 
 address {
     font-style: normal;
+    margin-left: auto;
 }
 
 .address-list{
