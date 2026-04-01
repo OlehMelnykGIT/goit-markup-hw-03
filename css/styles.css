@@ -171,9 +171,7 @@ img{
 .features-item{
     width: calc((100% - 72px) / 4);
 }
-.feature-text {
-   margin-top: 8px;
-}
+
 .worker-section {
     background-color: #f4f4fd;
 }
@@ -188,7 +186,7 @@ img{
     width: calc((100% - 72px) / 4);
 }
 .worker-content {
-    padding: 32px 0px;
+    padding: 32px 16px;
 }
 
 .worker-title{
@@ -257,6 +255,7 @@ img{
 }
 
 .application-name {
+    margin-bottom: 8px;
     font-size: 20px;
     font-weight: 500;
     color: #2e2f42;
