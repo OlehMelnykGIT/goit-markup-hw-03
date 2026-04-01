@@ -83,11 +83,6 @@ ul {
     color: #404bbf;
 }
 
-address {
-    font-style: normal;
-    margin-left: auto;
-}
-
 .address-list{
     display: flex;
     gap: 40px;
